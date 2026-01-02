@@ -1,16 +1,16 @@
 # ESP32 Line Following & PS3 Controlled Robot
 
-![ESP32](https://img.shields.io/badge/ESP32-DevBoard-black?style=for-the-badge&logo=espressif)
+
 ![PS3 Controller](https://img.shields.io/badge/Controller-PS3-blue)
 ![NeoPixel](https://img.shields.io/badge/LED-NeoPixel-purple)
 ![Line Follower](https://img.shields.io/badge/Feature-Line_Follower-orange)
 ![L298N Motor Driver](https://img.shields.io/badge/Driver-L298N-red)
 ![PWM](https://img.shields.io/badge/Feature-PWM-yellow)
 ![IR Sensors](https://img.shields.io/badge/Feature-IR_Sensors-lightgrey)
-![Language: C/C++](https://img.shields.io/badge/Language-C%2B%2B-blue)
+![Language: C/C++](https://img.shields.io/badge/Language-C%2B%2B-blue)                               
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Author](https://img.shields.io/badge/Author-Abdelrahman--Elnahrawy-orange?style=for-the-badge)
-
+![ESP32](https://img.shields.io/badge/ESP32-DevBoard-black?style=for-the-badge&logo=espressif)
 ---
 
 ## Project Overview
